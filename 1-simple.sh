@@ -1,1 +1,6 @@
-ls -ltr
+#!/bin/bash
+
+## comment for my understanding
+
+ls
+cat
